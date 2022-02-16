@@ -34,4 +34,8 @@ __Not using disentanglement__
 
 1. Dai, N., Liang, J., Qiu, X., & Huang, X. __Style transformer: Unpaired text style transfer without disentangled latent representation.__ ACL 2019.[pdf](https://arxiv.org/pdf/1905.05621.pdf)
     
-    `Transforemer, back-translation loss (cycle loss)`
+    `Transformer, back-translation loss (cycle loss)`
+    
+2. Wang, K., Hua, H., & Wan, X. __Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation.__ NIPS 2019.[pdf](https://arxiv.org/pdf/1905.12926)
+    
+    

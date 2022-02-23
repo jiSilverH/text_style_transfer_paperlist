@@ -38,4 +38,9 @@ __Not using disentanglement__
     
 2. Wang, K., Hua, H., & Wan, X. __Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation.__ NIPS 2019.[pdf](https://arxiv.org/pdf/1905.12926)
     
-    
+
+
+
+-------------------------------------------------------------
+### TO DO 
+- [ ] Unsupervised Text Style Transfer using Language Models as Discriminators [pdf](https://proceedings.neurips.cc/paper/2018/file/398475c83b47075e8897a083e97eb9f0-Paper.pdf)
